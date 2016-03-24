@@ -1,0 +1,58 @@
+body
+  {background-color:white;
+  font-family:Garamond;
+  margin:3.5%;}
+
+#header {text-align:center;
+        font-size:32px;
+        font-weight:bold;
+        margin-bottom:1.5%;}
+
+#nav {text-align:center;
+     font-size:19px;
+     font-weight:bold;
+     background-color:black;
+     color:white;
+     padding-top:0.5%;
+     margin-left:15%;
+     margin-right:15%;
+     margin-bottom:3%;}
+
+#main {margin-left:13.65%;
+      margin-right:13.65%;
+      font-size:14.5px;}
+
+a:link {color:white;text-decoration:none;}
+a:active {color:white;text-decoration:none;}
+a:visited {color:white;text-decoration:none;}
+a:hover {color:lightgrey;text-decoration:none;}
+
+#first {margin-left:17%;
+        margin-right:7%;
+        margin-top:5%;}
+
+#link1 {margin-left:17%;
+        margin-top:4%;
+        font-size:17px;}
+
+#second {margin-left:15%;
+        margin-right:7%;
+        margin-top:5%;}
+
+#link2 {margin-left:21%;
+        margin-top:4%;
+        margin-bottom:4%;
+        font-size:17px;}
+
+#third {margin-left:13%;}
+
+#link3 {margin-left:20%;
+       font-size:17px;
+       margin-top:2%;}
+
+#title {text-align:center;
+       font-size:15px;
+       margin-bottom:4%;}
+
+#descrip {margin-left:16%;
+         margin-right:16%;}
